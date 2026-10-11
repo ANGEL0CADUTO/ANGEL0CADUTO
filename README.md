@@ -2,6 +2,17 @@
 
 I build websites and web applications through [Angelo Romano Studio](https://www.angeloromanostudio.it/it). My academic work explores Linux systems, distributed software, source-code analysis and machine learning.
 
+## Selected web projects
+
+| Project | Focus |
+| --- | --- |
+| [Angelo Romano Studio](https://github.com/ANGEL0CADUTO/angelo-romano-studio-portfolio) | Next.js portfolio, multilingual pages, reusable components and case studies |
+| [Carlos Giordano](https://github.com/ANGEL0CADUTO/carlos-giordano-website) | React artist website, bilingual galleries, exhibition pages and static rendering |
+| [SIAPS](https://github.com/ANGEL0CADUTO/siaps-website) | React association website, reusable sections and membership flow |
+| [Domus Juliae](https://github.com/ANGEL0CADUTO/domus-juliae-website) | Next.js apartment website, five languages, booking interface and pricing logic |
+
+These public source editions use example assets and data. Production services remain separate; Domus does not accept real reservations or payments.
+
 ## Selected academic projects
 
 | Project | Focus |
